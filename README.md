@@ -1,2 +1,2 @@
 # THE-PERFECT-GUESS-
-We are going to write a program that generates a random number and asks the user to  guess it. 
+"A Python based Number Guessing Game where the user attempts to guess a randomly generated number with feedback provided until the correct guess is made."
